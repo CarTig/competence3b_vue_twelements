@@ -1,5 +1,5 @@
 <template>
-    <h1>Ceci sera l'bbbbbbbb</h1>
+    <h1>Ceci est une page a propos qui reste à construire</h1>
     <Para1/>
 </template>
 

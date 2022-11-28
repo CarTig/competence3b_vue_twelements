@@ -1,5 +1,5 @@
 <template>
-    <section class="text-orange-900 bg-amber-200 opacity-50 my-3 lg:h-80 lg:flex-col lg:space-y-14">
+    <section class="text-brown font-gustavo bg-amber-200 opacity-50 my-3 lg:h-80 lg:flex-col lg:space-y-14">
       <h3 class=" text-center my-2 py-3 text-2xl lg:text-4xl lg:py-6" >On reste en contact ?</h3>
       <div class="flex justify-center">
         <label for="adressemail"></label>

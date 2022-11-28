@@ -1,5 +1,5 @@
 <template>
-    <section class="text-orange-900">
+    <section class="text-brown font-gustavo">
       <div class="mx-2 text-center text-xl lg:text-4xl">
         <h3 class="font-semibold my-3 lg:my-5">Citation du jour ...</h3>
         <blockquote class="italic my-3 lg:my-5">

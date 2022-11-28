@@ -1,5 +1,5 @@
 <template>
-        <div class="my-6 lg:flex lg:justify-evenly">
+        <div class=" font-gustavo my-6 lg:flex lg:justify-evenly">
 <!-- ___________ code card 1 ___________ -->
         <div class="flex justify-center my-3">
           <div class="rounded-lg shadow-lg bg-white max-w-sm">

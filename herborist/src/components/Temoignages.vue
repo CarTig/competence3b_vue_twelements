@@ -1,9 +1,9 @@
 <template>
-    <section class="mb-20 text-gray-700">
+    <section class="mb-20 text-brown font-gustavo">
   <div class="text-center md:max-w-xl lg:max-w-3xl mx-auto">
-    <h3 class="text-3xl font-bold mb-6 text-gray-800">Testimonials</h3>
+    <h3 class="text-3xl font-bold mb-6">Avis clients</h3>
     <p class="mb-6 pb-2 md:mb-12 md:pb-0">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam
+      Ils et elles nous font confiance. Fugit, error amet numquam
       iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam eum
       porro a pariatur veniam.
     </p>
@@ -17,8 +17,8 @@
           class="rounded-full shadow-lg w-32"
         />
       </div>
-      <h5 class="text-xl font-semibold mb-4">Maria Smantha</h5>
-      <h6 class="font-semibold text-blue-600 mb-4">Web Developer</h6>
+      <h5 class="text-xl font-semibold text-ocre mb-4">"Retour à la simplicité"</h5>
+      <h6 class="font-semibold mb-4">Margot</h6>
       <p class="mb-4">
         <svg
           aria-hidden="true"
@@ -35,8 +35,10 @@
             d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"
           ></path>
         </svg>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
-        tenetur quae quaerat ad velit ab hic tenetur.
+        Maintenant, je sais exploiter à 100% les produits de 
+          ma cuisine ! <br>
+          Je n'imaginais même pas à quel point de simples épices 
+          peuvent être puissantes !
       </p>
       <ul class="flex justify-center mb-0">
         <li>
@@ -45,7 +47,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -62,7 +64,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -79,7 +81,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -96,7 +98,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -113,7 +115,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star-half-alt"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 536 512"
@@ -133,8 +135,8 @@
           class="rounded-full shadow-lg w-32"
         />
       </div>
-      <h5 class="text-xl font-semibold mb-4">Lisa Cudrow</h5>
-      <h6 class="font-semibold text-blue-600 mb-4">Graphic Designer</h6>
+      <h5 class="text-xl font-semibold text-ocre mb-4">"Un shot de naturel sans modération"</h5>
+      <h6 class="font-semibold  mb-4">Paul-Issa</h6>
       <p class="mb-4">
         <svg
           aria-hidden="true"
@@ -149,8 +151,9 @@
           <path
             fill="currentColor"
             d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"
-          ></path></svg>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
-        laboriosam, nisi ut aliquid commodi.
+          ></path></svg>C'est incroyable qu'avec un accompagnement aussi simple, <br> 
+          j'arrive à améliorer ma routine et me sentir aussi bien, 
+          aussi facilement!
       </p>
       <ul class="flex justify-center mb-0">
         <li>
@@ -159,7 +162,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -176,7 +179,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -193,7 +196,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -210,7 +213,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -227,7 +230,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -247,8 +250,8 @@
           class="rounded-full shadow-lg w-32"
         />
       </div>
-      <h5 class="text-xl font-semibold mb-4">John Smith</h5>
-      <h6 class="font-semibold text-blue-600 mb-4">Marketing Specialist</h6>
+      <h5 class="text-xl font-semibold text-ocre mb-4">"Lorem loremm lorem"</h5>
+      <h6 class="font-semibold mb-4">Bruno</h6>
       <p class="mb-4">
         <svg
           aria-hidden="true"
@@ -273,7 +276,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -290,7 +293,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -307,7 +310,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -324,7 +327,7 @@
             focusable="false"
             data-prefix="fas"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -341,7 +344,7 @@
             focusable="false"
             data-prefix="far"
             data-icon="star"
-            class="w-4 text-yellow-500"
+            class="w-4 text-yellow"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"

@@ -1,19 +1,24 @@
 <template>
+  <Header/>
+
   <nav>
-    <router-link to="/" class="font-gustavo">Accueil</router-link> |
-    <router-link to="/Programes" class="font-gustavo">Programmes</router-link> |
-    <router-link to="/Apropos" class="font-gustavo">A propos</router-link>
+    <!-- LES ROUTER LINKS ONT ETE INTEGES DANS LE COMPOSANT NAVBAR DIRECTEMENT <router-link to="/" class="font-gustavo">Accueil</router-link> | -->
+    <!-- <router-link to="/Programmes" class="font-gustavo">Programmes</router-link> |
+    <router-link to="/Apropos" class="font-gustavo">A propos</router-link> -->
   </nav>
   <router-view/>
+
   <Foot/>
 </template>
 
 <script>
 import Foot from './components/Foot.vue'
+import Header from './components/Header.vue'
 
 export default{
   name:'App',
   components:{
+    Header,
     Foot,
     
   }

@@ -1,5 +1,5 @@
 <template>
-    <footer class="text-center bg-red-200 opacity-50 text-white">
+    <footer class="font-gustavo text-xl text-center bg-green opacity-50 text-white">
         <div class="container px-6 pt-6">
           <div class="flex justify-center mb-6">
             <a href="#!" type="button" class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">

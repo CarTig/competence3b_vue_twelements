@@ -7,7 +7,7 @@
         background-image: url('img/BackgroundCafe.jpg');
         height: 500px;
       ">
-        <div class="font-tomarik text-brown absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed"
+        <div class="font-tomarikline text-brown absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed"
           style="background-color: rgba(253, 253, 253, 0.75)">
           <div class="flex justify-center items-center h-full">
             <div class="flex flex-col items-center text-center px-6 md:px-12">
