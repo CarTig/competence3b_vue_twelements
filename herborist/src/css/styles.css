@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face{
+    font-family: 'tomarik';
+    src: url('../fonts/Tomarik-Display.ttf');
+
+}
+
+@font-face{
+    font-family: 'tomarikline';
+    src: url('../fonts/Tomarik-DisplayLine.ttf');
+}
+
+@font-face {
+    font-family: 'gustavo';
+    src: url('../fonts/gustavo_regular.ttf');
+}
